@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "adafruit_neopixel.h": "c",
+        "sdfat.h": "c",
+        "cmath": "cpp",
+        "sparkfun_u-blox_gnss_arduino_library.h": "c",
+        "imxrt.h": "c"
+    },
+    "cmake.sourceDirectory": "C:/Users/Abhigna/OneDrive/Documents/PlatformIO/Projects/TFACSOFT_0.2/lib/BasicLinearAlgebra-master/test"
+}
